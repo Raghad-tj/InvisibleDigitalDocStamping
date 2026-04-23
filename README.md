@@ -1,4 +1,4 @@
-# Wathiq
+# Invisible Digital Document Stamping
 # 🔒 Final Project Submission: أداة الختم والتحقق الآمن للملفات (Python Sealing & Verification)
 
 ## I. نظرة عامة على المشروع (Project Overview)
